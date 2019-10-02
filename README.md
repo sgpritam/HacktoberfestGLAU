@@ -16,6 +16,6 @@ If any category or langauge is not found, please feel free to create one
 
 ### Alternate via Web
 
-1. Fork Repo on Web Page
+1. Fork Repository on Web Page
 2. Make your changes on your forked repo
 3. Make Pull Request to master
